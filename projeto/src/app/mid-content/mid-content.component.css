@@ -1,0 +1,11 @@
+.container{
+  display: flex;
+  background-color: #0E733A;
+}
+
+.perfil {
+  max-width:100%;
+  height:auto;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}

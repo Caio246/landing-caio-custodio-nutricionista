@@ -1,0 +1,10 @@
+.container{
+  background-color: #0E733A;
+}
+
+.logo {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  height: 6rem;
+  width: 6rem;
+}
