@@ -6,6 +6,9 @@ import { HomeComponent } from './home/home.component';
 import { NavbarComponent } from './navbar/navbar.component';
 import { MidContentComponent } from './mid-content/mid-content.component';
 import { ParceriasComponent } from './parcerias/parcerias.component';
+import { ResultadosComponent } from './resultados/resultados.component';
+import { FooterComponent } from './footer/footer.component';
+import { BeneficiosComponent } from './beneficios/beneficios.component';
 
 @NgModule({
   declarations: [
@@ -13,10 +16,13 @@ import { ParceriasComponent } from './parcerias/parcerias.component';
     HomeComponent,
     NavbarComponent,
     MidContentComponent,
-    ParceriasComponent
+    ParceriasComponent,
+    ResultadosComponent,
+    FooterComponent,
+    BeneficiosComponent
   ],
   imports: [
-    BrowserModule
+    BrowserModule,
   ],
   providers: [],
   bootstrap: [AppComponent]

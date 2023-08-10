@@ -1,0 +1,35 @@
+.container{
+  margin-top: 1rem;
+}
+
+.logo {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  height: 6rem;
+  width: 6rem;
+}
+
+.texto-nav{
+  white-space: nowrap;
+  font-weight: 700;
+}
+
+.conteudo {
+  display: flex;
+}
+
+.perfil {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+  max-width: 50%;
+  height:auto;
+  border-radius: 50%;
+}
+
+.p-resultado {
+  color: #E5B244;
+}

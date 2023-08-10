@@ -1,8 +1,7 @@
-.container {
+.container-fluid {
   display: flex;
   flex-wrap: wrap;
   margin-top: 1rem;
-  background-color: #0E733A;
 }
 
 .logo-parceiro {
@@ -15,4 +14,28 @@
   max-width: 50%;
   height:auto;
   border-radius: 50%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.botao-mid {
+  width: fit-content;
+  color: black;
+  background: #E5B244;
+  border-radius: 8px;
+  padding: 10px 45px;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.h2 {
+  color: #FEFEFE;
+}
+
+.p {
+  color: #FEFEFE;
+}
+
+.section {
+  margin-top: 5rem;
 }

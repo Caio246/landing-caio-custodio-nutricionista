@@ -1,6 +1,5 @@
 .container{
   display: flex;
-  background-color: #0E733A;
 }
 
 .perfil {
@@ -8,4 +7,14 @@
   height:auto;
   margin-top: 1rem;
   margin-bottom: 1rem;
+}
+
+.botao-mid {
+  width: fit-content;
+  text-color: black;
+  background: #E5B244;
+  border-radius: 8px;
+  padding: 10px 45px;
+  text-decoration: none;
+  cursor: pointer;
 }
