@@ -1,3 +1,5 @@
 .bg-image {
-  background-image: url('src/assets/img/background-2.png');
+  background-image: url('src/assets/img/perfil-s.jpeg');
+  background-repeat: round;
+
 }

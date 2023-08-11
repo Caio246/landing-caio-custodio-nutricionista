@@ -1,3 +1,16 @@
+.container {
+  background-color: rgb(23,23,23);
+}
+
+.container-fluid {
+  margin-top: 100px;
+}
+
+.section {
+  background-color: rgb(23,23,23);
+  width: 100%;
+}
+
 .p {
   color: black;
 }
@@ -38,4 +51,12 @@
 .svg-hiper {
   width: 48px;
   height: 48px;
+}
+
+.circle {
+  position: absolute;
+}
+
+.icon {
+  position: relative;
 }

@@ -1,5 +1,9 @@
 .container{
-  margin-top: 1rem;
+  background-color: rgb(23,23,23);
+}
+
+.section {
+  background-color: rgb(23,23,23);
 }
 
 .logo {
@@ -32,4 +36,11 @@
 
 .p-resultado {
   color: #E5B244;
+}
+
+.carousel-item {
+  margin-left: 350px;
+  margin-bottom: 50px;
+  margin-top: 60px;
+  width: 48%;
 }

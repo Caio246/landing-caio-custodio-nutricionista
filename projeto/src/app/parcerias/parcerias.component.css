@@ -1,7 +1,14 @@
+.container {
+  background-color: #E5B244;
+}
+
+.section {
+  background-color: #E5B244;
+}
+
 .container-fluid {
   display: flex;
   flex-wrap: wrap;
-  margin-top: 1rem;
 }
 
 .logo-parceiro {
@@ -16,12 +23,13 @@
   border-radius: 50%;
   margin-top: 10px;
   margin-bottom: 10px;
+  white-space: break-spaces;
 }
 
 .botao-mid {
   width: fit-content;
-  color: black;
-  background: #E5B244;
+  color: whitesmoke;
+  background: rgb(23,23,23);
   border-radius: 8px;
   padding: 10px 45px;
   text-decoration: none;
@@ -29,13 +37,9 @@
 }
 
 .h2 {
-  color: #FEFEFE;
+  color: rgb(23,23,23);
 }
 
 .p {
-  color: #FEFEFE;
-}
-
-.section {
-  margin-top: 5rem;
+  color: rgb(23,23,23);
 }

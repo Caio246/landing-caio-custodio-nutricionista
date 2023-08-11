@@ -1,3 +1,36 @@
-.footer-1 {
+.container {
+  background-color: #E5B244;
+}
+
+.section {
+  background-color: #E5B244;
+}
+
+.colunaUm {
   margin-top: 50px;
+}
+
+.colunaDois {
+  margin-top: 50px;
+}
+
+.colunaTres {
+  margin-top: 50px;
+}
+
+.colunaQuatro {
+  margin-top: 50px;
+}
+
+.lista-li {
+  list-style: none;
+  text-decoration-line: none;
+}
+
+.btn {
+  background-color: rgb(5, 104, 57);
+}
+
+.ul-list {
+  padding-left: 0;
 }
