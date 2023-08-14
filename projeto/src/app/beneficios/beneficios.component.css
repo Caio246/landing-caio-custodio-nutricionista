@@ -53,10 +53,6 @@
   height: 48px;
 }
 
-.circle {
-  position: absolute;
-}
-
 .icon {
-  position: relative;
+  position: absolute;
 }
