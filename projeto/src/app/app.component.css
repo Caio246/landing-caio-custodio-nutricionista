@@ -1,5 +1,6 @@
 .bg-image {
   background-image: url('src/assets/img/perfil-s.jpeg');
   background-repeat: round;
-
+  object-fit: cover;
+  opacit: 0.95;
 }
