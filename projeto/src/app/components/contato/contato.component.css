@@ -1,0 +1,22 @@
+.container {
+  background-image: url("src/assets/img/back-contato.png");
+  background-repeat: no-repeat;
+  display: flex;
+  padding-bottom: 20%;
+  padding-top: 10%;
+}
+
+.section {
+  background-color: rgba(23, 23, 23, 0.63);
+  padding-bottom: 5%;
+}
+
+.p-button {
+  background-color: #E5B244;
+}
+
+.texto-nav{
+  white-space: nowrap;
+  font-weight: 700;
+  color: whitesmoke;
+}

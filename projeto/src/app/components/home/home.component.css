@@ -1,3 +1,11 @@
+.bg-image {
+  background-image: url('src/assets/img/perfil-s - editado.jpeg');
+  background-repeat: round;
+  object-fit: cover;
+  opacit: 0.95;
+  background-color: #E5B244;
+}
+
 .container{
   display: flex;
 }

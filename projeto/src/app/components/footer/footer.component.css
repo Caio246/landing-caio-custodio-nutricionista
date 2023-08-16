@@ -38,3 +38,10 @@
 .social-footer2 {
   padding: 0;
 }
+
+.texto-nav{
+  white-space: nowrap;
+  font-weight: 700;
+  color: #171717;
+  text-decoration: none;
+}

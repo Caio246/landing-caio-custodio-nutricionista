@@ -1,14 +1,12 @@
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
-import { HomeComponent } from "./home.component";
 import { AppRoutingModule } from "../../app.routing.module";
 import { CommonModule } from "@angular/common";
-import {NavbarComponent} from "../navbar/navbar.component";
+import { ContatoComponent } from "./contato.component";
 
 @NgModule({
   declarations: [
-    NavbarComponent,
-    HomeComponent,
+    ContatoComponent
   ],
   imports: [
     BrowserModule,
@@ -17,8 +15,7 @@ import {NavbarComponent} from "../navbar/navbar.component";
   ],
   providers: [],
   exports: [
-    NavbarComponent,
-    HomeComponent,
+    ContatoComponent
   ],
 })
-export class AppModule { }
+export class ContatoModule { }
