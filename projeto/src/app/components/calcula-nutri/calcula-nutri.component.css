@@ -1,0 +1,28 @@
+.container {
+  display: flex;
+  background-image: url("src/assets/img/back-contato.png");
+  background-repeat: no-repeat;
+  padding-left: 26%;
+}
+
+.section {
+  background-color: rgba(23, 23, 23, 0.63);
+  padding-bottom: 15%;
+}
+
+.calculadora {
+  border: whitesmoke;
+}
+
+.text-center {
+  color:whitesmoke;
+}
+
+.button {
+  white-space: nowrap;
+  width: -webkit-max-content;
+}
+
+.jumbotron {
+  width: 37rem;
+}

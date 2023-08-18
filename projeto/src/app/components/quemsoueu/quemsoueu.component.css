@@ -1,0 +1,37 @@
+.section {
+  background-image: url("src/assets/img/quem-sou-eu.jpeg");
+  background-repeat: round;
+  object-fit: cover;
+  background-color: rgba(23, 23, 23, 0.63);
+  padding: 0 0 270px;
+}
+
+.container {
+  padding-top: 5%;
+  margin-top: 5%;
+  border: solid whitesmoke 1px;
+  border-radios: 50%;
+  background-color: rgba(23, 23, 23, 0.63);
+}
+
+.texto {
+ text-align: right;
+ justify-content: normal;
+ color: #FEFEFE;
+ font-family: "Montserrat", Sans-serif;
+ font-size: 18px;
+ font-weight: 500;
+}
+
+.texto-sobre-texto {
+  display: flex;
+  flex-direction: column;
+}
+
+.h1 {
+  color: #FEFEFE;
+}
+
+.h2 {
+  color: #E5B244;
+}

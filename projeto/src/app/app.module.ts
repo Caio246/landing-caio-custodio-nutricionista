@@ -14,6 +14,7 @@ import { ContatoComponent } from "./components/contato/contato.component";
 import { RouterModule } from "@angular/router";
 import { ButtonModule } from "primeng/button";
 import { ReactiveFormsModule } from "@angular/forms";
+import {QuemsoueuComponent} from "./components/quemsoueu/quemsoueu.component";
 
 
 @NgModule({
@@ -27,6 +28,7 @@ import { ReactiveFormsModule } from "@angular/forms";
     FooterComponent,
     CalculaNutriComponent,
     ContatoComponent,
+    QuemsoueuComponent
   ],
     imports: [
         CommonModule,

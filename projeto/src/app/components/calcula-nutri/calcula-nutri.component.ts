@@ -13,7 +13,6 @@ export class CalculaNutriComponent {
 
   pressNum(num: string) {
 
-    //Do Not Allow . more than once
     if (num==".") {
       if (this.input !="" ) {
 
@@ -23,8 +22,6 @@ export class CalculaNutriComponent {
       }
     }
 
-    //Do Not Allow 0 at beginning.
-    //Javascript will throw Octal literals are not allowed in strict mode.
     if (num=="0") {
       if (this.input=="" ) {
         return;
@@ -54,7 +51,6 @@ export class CalculaNutriComponent {
 
   pressOperator(op: string) {
 
-    //Do not allow operators more than once
     const lastKey = this.input[this.input.length - 1];
     if (lastKey === '/' || lastKey === '*' || lastKey === '-' || lastKey === '+')  {
       return;
