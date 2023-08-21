@@ -7,19 +7,19 @@
 }
 
 .colunaUm {
-  margin-top: 50px;
+  margin-top: 2%;
 }
 
 .colunaDois {
-  margin-top: 50px;
+  margin-top: 2%;
 }
 
 .colunaTres {
-  margin-top: 50px;
+  margin-top: 2%;
 }
 
 .colunaQuatro {
-  margin-top: 50px;
+  margin-top: 2%;
 }
 
 .lista-li {
@@ -44,4 +44,25 @@
   font-weight: 700;
   color: #171717;
   text-decoration: none;
+}
+
+.redes-sociais .ul {
+  display: flex;
+  flex-direction: row;
+}
+
+.logo-parceiro {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+  max-width: 50%;
+  height:auto;
+  border-radius: 50%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  white-space: break-spaces;
+  padding: 10px;
 }

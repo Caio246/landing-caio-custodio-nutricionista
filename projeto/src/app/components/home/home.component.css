@@ -1,9 +1,8 @@
 .bg-image {
   background-image: url('src/assets/img/perfil-s - editado.jpeg');
   background-repeat: round;
-  object-fit: cover;
+  background-attachment: fixed;
   opacit: 0.95;
-  background-color: #E5B244;
 }
 
 .container{

@@ -1,14 +1,16 @@
 .section {
-  background-image: url("src/assets/img/quem-sou-eu.jpeg");
+  background-image: url("src/assets/img/perfil-campo-e.jpeg");
   background-repeat: round;
+  background-attachment: fixed;
   object-fit: cover;
   background-color: rgba(23, 23, 23, 0.63);
-  padding: 0 0 270px;
+  padding: 0 0 2%;
 }
 
 .container {
-  padding-top: 5%;
-  margin-top: 5%;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  margin-top: 4%;
   border: solid whitesmoke 1px;
   border-radios: 50%;
   background-color: rgba(23, 23, 23, 0.63);

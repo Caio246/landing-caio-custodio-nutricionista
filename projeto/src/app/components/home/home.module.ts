@@ -4,28 +4,20 @@ import { HomeComponent } from "./home.component";
 import { AppRoutingModule } from "../../app.routing.module";
 import { CommonModule } from "@angular/common";
 import {BeneficiosComponent} from "../beneficios/beneficios.component";
-import {AppModule} from "../../app.module";
+import {ContentComponent} from "../content/content.component";
 
 @NgModule({
-  declarations: [
-    HomeComponent,
-    BeneficiosComponent
-  ],
-    imports: [
-        BrowserModule,
-        AppRoutingModule,
-        CommonModule,
-        AppModule,
-        AppModule,
-        AppModule,
-        AppModule,
-        AppModule,
-        AppModule,
-        AppModule,
-        AppModule,
-        AppModule,
-        AppModule
+    declarations: [
+        HomeComponent,
+        BeneficiosComponent,
+        ContentComponent
     ],
+  imports: [
+    BrowserModule,
+    AppRoutingModule,
+    CommonModule,
+    AppModule,
+  ],
   providers: [],
   exports: [
     HomeComponent,

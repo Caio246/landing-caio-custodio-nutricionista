@@ -5,7 +5,7 @@
   width: 6rem;
 }
 
-.texto-nav{
+.texto-nav {
   white-space: nowrap;
   font-weight: 700;
   color: whitesmoke;
@@ -13,4 +13,12 @@
 
 .section {
   background-color: rgba(23, 23, 23, 0.63);
+}
+
+.navbar {
+background-color:  rgba(23, 23, 23, 0.63) !important;
+}
+
+.navbar-toggler {
+  background-color: #056839;
 }
