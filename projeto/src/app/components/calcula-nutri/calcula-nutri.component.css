@@ -1,58 +1,58 @@
-.container {
-  display: flex;
-  width: 100%;
-  padding: 12px;
-  background-image: url("src/assets/img/back-contato.png");
-  background-repeat: no-repeat;
-}
+/*.container {*/
+/*  display: flex;*/
+/*  width: 100%;*/
+/*  padding: 12px;*/
+/*  background-image: url("src/assets/img/back-contato.png");*/
+/*  background-repeat: no-repeat;*/
+/*}*/
 
-.section {
-  background-color: rgba(23, 23, 23, 0.63);
-  padding-bottom: 2%;
-}
+/*.section {*/
+/*  background-color: rgba(23, 23, 23, 0.63);*/
+/*  padding-bottom: 2%;*/
+/*}*/
 
-.calculadora {
-  border: whitesmoke;
-}
+/*.calculadora {*/
+/*  border: whitesmoke;*/
+/*}*/
 
-.text-center {
-  color:whitesmoke;
-}
+/*.text-center {*/
+/*  color:whitesmoke;*/
+/*}*/
 
-.button {
-  white-space: nowrap;
-  width: -webkit-max-content;
-}
+/*.button {*/
+/*  white-space: nowrap;*/
+/*  width: -webkit-max-content;*/
+/*}*/
 
-.jumbotron {
-  width: 37rem;
-}
+/*.jumbotron {*/
+/*  width: 37rem;*/
+/*}*/
 
-.container .calcula-list {
-  width: 95%;
-  height: 400px;
-  border: solid;
-  border-color: whitesmoke;
-}
+/*.container .calcula-list {*/
+/*  width: 95%;*/
+/*  height: 400px;*/
+/*  border: solid;*/
+/*  border-color: whitesmoke;*/
+/*}*/
 
-.lista {
-  width: 100vw;
-  height: 100vh;
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  align-items: center;
-}
+/*.lista {*/
+/*  width: 100vw;*/
+/*  height: 100vh;*/
+/*  display: flex;*/
+/*  flex-direction: row;*/
+/*  justify-content: center;*/
+/*  align-items: center;*/
+/*}*/
 
-.lista-li {
-  list-style: none;
-  text-decoration-line: none;
-  padding: 2%;
-}
+/*.lista-li {*/
+/*  list-style: none;*/
+/*  text-decoration-line: none;*/
+/*  padding: 2%;*/
+/*}*/
 
-.btn {
-  color: black;
-  white-space: nowrap;
-  border: whitesmoke solid 1px;
-  background-color: #E5B244;
-}
+/*.btn {*/
+/*  color: black;*/
+/*  white-space: nowrap;*/
+/*  border: whitesmoke solid 1px;*/
+/*  background-color: #E5B244;*/
+/*}*/

@@ -21,6 +21,7 @@
   text-color: black;
   background: #E5B244;
   border-radius: 8px;
+  border: solid 1px #000000;
   padding: 10px 45px;
   text-decoration: none;
   cursor: pointer;
