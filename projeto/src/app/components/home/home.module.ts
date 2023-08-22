@@ -5,12 +5,14 @@ import { AppRoutingModule } from "../../app.routing.module";
 import { CommonModule } from "@angular/common";
 import {BeneficiosComponent} from "../beneficios/beneficios.component";
 import {ContentComponent} from "../content/content.component";
+import {MetodoCaioCustodioComponent} from "../metodo-caio-custodio/metodo-caio-custodio.component";
 
 @NgModule({
     declarations: [
         HomeComponent,
         BeneficiosComponent,
-        ContentComponent
+        ContentComponent,
+        MetodoCaioCustodioComponent
     ],
   imports: [
     BrowserModule,

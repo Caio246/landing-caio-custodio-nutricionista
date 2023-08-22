@@ -1,0 +1,43 @@
+.container {
+
+}
+
+.section {
+  background-image: url('src/assets/img/perfil-campo.jpeg');
+  background-repeat: round;
+  background-attachment: fixed;
+  padding: 3%;
+}
+
+.bg-metodo {
+  display: flex;
+  flex-direction: column;
+  background-color: #E5B244;
+  border: #171717 0 solid;
+  border-radius: 20px;
+  margin: 1% 1% 1% 1%;
+}
+
+.logo-beneficios {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: #171717;
+  text-align: justify;
+}
+
+.lista {
+  flex-direction: row;
+  gap: 10px;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+  text-align: justify;
+}
+
+.logo-sgv {
+  margin: auto;
+}
+

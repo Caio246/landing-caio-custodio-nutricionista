@@ -9,6 +9,7 @@
 .section {
   background-color: rgba(23, 23, 23, 0.63);
   padding-bottom: 5%;
+  padding-top: 5%;
 }
 
 .p-button {
@@ -19,4 +20,8 @@
   white-space: nowrap;
   font-weight: 700;
   color: whitesmoke;
+}
+
+.btn {
+  background-color: #02C955;
 }

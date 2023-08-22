@@ -23,3 +23,23 @@ background-color:  rgba(23, 23, 23, 0.63) !important;
 .navbar-toggler {
   background-color: #056839;
 }
+
+.linha-vertical {
+  border-left: 1px solid;
+  color: whitesmoke;
+  height: 1rem;
+}
+
+.textButton-menor {
+  background:none;
+  border:none;
+  font-size: 1rem;
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+  font-weight: 500;
+  line-height: 1.2;
+}
+
+.textButton-menor:hover{
+  color: #056839;
+}

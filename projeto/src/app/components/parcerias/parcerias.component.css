@@ -46,3 +46,12 @@
   justify-content: center;
   text-align: justify;
 }
+
+.h3 {
+  font-weight: 700;
+  font-size: 52px;
+  line-height: 60px;
+  color: rgb(23,23,23);
+  margin-left: 1%;
+  padding-top: 1%;
+}

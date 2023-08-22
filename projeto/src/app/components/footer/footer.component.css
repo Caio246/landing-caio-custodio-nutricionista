@@ -28,7 +28,7 @@
 }
 
 .btn {
-  background-color: rgb(5, 104, 57);
+  background-color: #02C955;
 }
 
 .ul-list {
@@ -65,4 +65,32 @@
   margin-bottom: 10px;
   white-space: break-spaces;
   padding: 10px;
+}
+
+.h2 {
+  font-height: 700;
+  font-size: 30px;
+  font-weight: 700;
+}
+
+.social-footer2 {
+  display: flex;
+}
+
+.textButton-menor {
+  background:none;
+  border:none;
+  font-size: 1rem;
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+  font-weight: 500;
+  line-height: 1.2;
+}
+
+.textButton-menor:hover{
+  color: #056839;
+}
+
+.text-center {
+  white-space: nowrap;
 }
