@@ -3,7 +3,7 @@
 }
 
 .section {
-  background-image: url('src/assets/img/perfil-campo.jpeg');
+  background-image: url('src/assets/img/vaca.jpeg');
   background-repeat: round;
   background-attachment: fixed;
   padding: 3%;
@@ -41,3 +41,11 @@
   margin: auto;
 }
 
+
+.h2 {
+  font-weight: 700;
+  font-size: 52px;
+  line-height: 60px;
+  color: #FEFEFE;
+  margin-top: 10px;
+}

@@ -1,9 +1,10 @@
 .container {
-  background-image: url("src/assets/img/back-contato.png");
+ background-color: black;
   background-repeat: no-repeat;
   display: flex;
   padding-bottom: 20%;
   padding-top: 10%;
+  padding: 4%;
 }
 
 .section {
@@ -24,4 +25,17 @@
 
 .btn {
   background-color: #02C955;
+}
+
+.formulario {
+  justify-items: center;
+  text-align: justify;
+}
+
+.texto-centro {
+  margin: auto;
+}
+
+.h2 {
+  padding-top: 2%;
 }

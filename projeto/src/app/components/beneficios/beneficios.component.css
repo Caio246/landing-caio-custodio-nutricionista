@@ -7,6 +7,7 @@
 }
 
 .section {
+  padding-top: 1px;
   background-color: rgb(23,23,23);
   width: 100%;
 }
@@ -15,12 +16,12 @@
   color: black;
 }
 
-.span {
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 24px;
-  color: #FEFEFE;
-}
+/*.span {*/
+/*  font-weight: 400;*/
+/*  font-size: 16px;*/
+/*  line-height: 24px;*/
+/*  color: #FEFEFE;*/
+/*}*/
 
 .h2 {
   font-weight: 700;
@@ -31,7 +32,8 @@
 }
 
 .h3 {
-  text-color: black;
+  text-color: #FEFEFE;
+  color: #FEFEFE;
 }
 
 .lista-beneficios {
